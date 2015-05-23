@@ -1,6 +1,6 @@
 ﻿using System.Data.Entity;
 
-namespace StoreEnumStrings
+namespace EnitityFrameworkStoreEnumsAsString
 {
     public class StringsForEnumsContext : DbContext
     {

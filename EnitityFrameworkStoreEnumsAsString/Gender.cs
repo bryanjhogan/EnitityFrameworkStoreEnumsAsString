@@ -1,4 +1,4 @@
-﻿namespace StoreEnumStrings
+﻿namespace EnitityFrameworkStoreEnumsAsString
 {
     public enum Gender
     {

@@ -1,6 +1,7 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
-namespace StoreEnumStrings
+namespace EnitityFrameworkStoreEnumsAsString
 {
     class Program
     {
@@ -13,6 +14,7 @@ namespace StoreEnumStrings
             context.SaveChanges();
 
             var personFromDB = context.Person.FirstOrDefault();
+            Console.ReadKey();
         }
     }
 }

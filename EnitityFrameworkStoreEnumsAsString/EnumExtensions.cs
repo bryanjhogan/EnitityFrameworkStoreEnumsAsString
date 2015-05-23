@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StoreEnumStrings
+namespace EnitityFrameworkStoreEnumsAsString
 {
     public class EnumExtensions
     {

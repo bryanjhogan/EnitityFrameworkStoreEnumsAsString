@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StoreEnumStrings
+namespace EnitityFrameworkStoreEnumsAsString
 {
     public class Person 
     {
